@@ -1,6 +1,6 @@
 # Boston Housing Prediction Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/WXXHPiX5LoQ
+
 
 # Dataset Information
 
@@ -39,6 +39,7 @@ Boston Housing Dataset Attribute Information (in order):
 <li>Decision Tree
 <li>Random Forest
 <li>Extra Tress
-<li>XGBoost
+
   
 **Mean Squared Error:** 10.0
+
