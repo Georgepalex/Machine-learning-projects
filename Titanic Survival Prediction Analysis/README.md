@@ -43,8 +43,6 @@ embarked |	Port of Embarkation |	C = Cherbourg, Q = Queenstown, S = Southampton 
 - Decision Tree
 - Random Forest
 - Extra Tress
-- XGBoost
-- LightGBM
-- CatBoost
+
   
 **Best Model Accuracy:** 82.00
