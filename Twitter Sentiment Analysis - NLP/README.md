@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/RLfUyn3HoaE
+
 
 # Dataset Information
 
@@ -10,7 +10,7 @@ Formally, given a training sample of tweets and labels, where label '1' denotes 
 
 For training the models, we provide a labelled dataset of 31,962 tweets. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet.
 
-**Download link:** https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
+
 
 # Libraries
 
@@ -23,4 +23,5 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 <li>Logistic Regression
   
+
 **Best Model Accuracy:** 95.00
